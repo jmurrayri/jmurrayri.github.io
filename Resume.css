@@ -1,0 +1,62 @@
+body {
+    font-size: 14px;
+    font-family: 'Tahoma';
+    margin: 0;
+}
+.resumeBody {
+    margin: 8px;
+}
+.header {
+    background-color: rgb(241, 241, 240);
+    padding-bottom: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-bottom: 10px;
+}
+.heading {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.header .info {
+    float: right;
+}
+ol {
+    list-style-type: none;
+}
+label {
+    font-weight: bold;
+}
+.header .name {
+    font-size: 36px;
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+}
+ol.skillsList li {
+    display: inline-block;
+    background-color: seagreen;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 2px;
+}
+.employer .time {
+    float: right;
+}
+.entityName {
+    font-size: 16px;
+}
+.employerInfo {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+.school {
+    display: inline-block;
+}
+.schoolName {
+    display: inline-block;
+}
+.degree {
+    font-style: italic;
+    display: inline-block;
+}
